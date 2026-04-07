@@ -1,5 +1,6 @@
 Multi-AZ VPC Infrastructure with Managed RDS & Automated AMIA production-ready, two-tier AWS architecture provisioned via Terraform. This project demonstrates the decoupling of application and data layers to ensure high availability and network isolation.
 ## Architecture Overview
+update 
 The infrastructure is deployed across multiple Availability Zones (AZs) to eliminate single points of failure.
 **VPC**: Custom Virtual Private Cloud with public/private subnet segmentation.
 **Compute**: Public EC2 instance (Amazon Linux 2) acting as a web server, accessible via SSH.
